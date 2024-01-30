@@ -1,5 +1,5 @@
  This is the contact and Faq component of the given task 
- fulfuling requirements:
+ Given requirements requirements:
 
 
  
